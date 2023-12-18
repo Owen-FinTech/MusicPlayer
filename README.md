@@ -14,7 +14,6 @@ A simple, user-friendly music player built with C# using Windows Forms. It's des
 - **Metadata**: Title, artist, album, year and genre clearly displayed. 
  
 ## Installation
-
 To run the Music Player app on your Windows machine, follow these steps:
 
 1. **Install .NET Framework**: Ensure you have the .NET Framework installed on your computer. If it's not already installed, you can download it from [Microsoft's .NET website](https://dotnet.microsoft.com/download).
