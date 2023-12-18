@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8KKyvCo1M8VqrP2TxcQkXqshFNASgiUX7O8xCZBAx6atWWpPGWDdKoYoE623dX1o65vTKYqtL/bO3b7rBYtfpQ==",
+  "dgSpecHash": "t7oCNbquJVj8KxsGLK+QYRBqfKbkUnrdWK2GmszHNNIVqObRKWF99cWeY+3x+fYmonqP0UyAo96F3FOJA01Z7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\harri\\source\\repos\\MusicPlayer\\MusicPlayer.csproj",
+  "projectFilePath": "C:\\Users\\harri\\git\\MusicPlayer\\MusicPlayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\harri\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\harri\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

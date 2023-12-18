@@ -524,11 +524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harri\\source\\repos\\MusicPlayer\\MusicPlayer.csproj",
+      "projectUniqueName": "C:\\Users\\harri\\git\\MusicPlayer\\MusicPlayer.csproj",
       "projectName": "MusicPlayer",
-      "projectPath": "C:\\Users\\harri\\source\\repos\\MusicPlayer\\MusicPlayer.csproj",
+      "projectPath": "C:\\Users\\harri\\git\\MusicPlayer\\MusicPlayer.csproj",
       "packagesPath": "C:\\Users\\harri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harri\\source\\repos\\MusicPlayer\\obj\\",
+      "outputPath": "C:\\Users\\harri\\git\\MusicPlayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

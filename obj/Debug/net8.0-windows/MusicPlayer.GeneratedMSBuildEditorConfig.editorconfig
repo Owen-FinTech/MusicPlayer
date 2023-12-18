@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MusicPlayer
-build_property.ProjectDir = C:\Users\harri\source\repos\MusicPlayer\
+build_property.ProjectDir = C:\Users\harri\git\MusicPlayer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
